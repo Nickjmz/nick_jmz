@@ -984,7 +984,7 @@ option {
   font-family: "Neucha", sans-serif;
 }
 
-h1,
+/* h1,
 h2,
 h3,
 h4,
@@ -993,7 +993,7 @@ h6 {
   font-family: "Patrick Hand SC", sans-serif;
   font-weight: normal;
 }
-
+*/
 h1 {
   font-size: 4rem;
 }
